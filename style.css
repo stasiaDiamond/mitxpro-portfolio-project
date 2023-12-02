@@ -3,3 +3,46 @@
   width: 100%; /* Ensures the image takes 100% width of its container */
   object-fit: cover; /* Maintains the aspect ratio and covers the entire container */
 }
+
+.email {
+  font-size: 25px;
+}
+
+.email-container {
+  margin-top: 200px;
+}
+
+
+.nav-item,  
+p {
+  font-family: 'Contrail One', sans-serif;
+  font-family: 'Pacifico', cursive;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.card-title {
+  font-family: 'Contrail One', sans-serif;
+  font-family: 'Pacifico', cursive;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: 700;
+}
+
+.bio-container {
+  margin-top: 80px;
+}
+
+#bio-title {
+  margin-top: 20px;
+  font-size: 50px;
+  font-weight: 800;
+  color: darksalmon;
+  
+
+}
+
+.btn-custom {
+  background-color: darksalmon;
+  color: white;
+  font-weight: 400;
+  
+}
