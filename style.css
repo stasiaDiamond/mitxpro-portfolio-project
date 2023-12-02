@@ -1,7 +1,24 @@
+/* i used bootstrap, so i don't need to use grid layout in my css file... but... */
+/* per requirements, add grid layout in css file */
+
+
+/* Styles, you should style your website including:
+
+Font
+Color 
+Navigation
+Image
+Styled links 
+Use of grid layout, which will be assessed by looking at the link to your CSS file */
+.email-container {
+  display: grid;
+  margin-top: 200px;
+}
+
 .card-img-top {
-  height: 300px; /* Adjust the height as needed */
-  width: 100%; /* Ensures the image takes 100% width of its container */
-  object-fit: cover; /* Maintains the aspect ratio and covers the entire container */
+  height: 300px; 
+  width: 100%; 
+  object-fit: cover; 
 }
 
 .email {
@@ -44,5 +61,8 @@ p {
   background-color: darksalmon;
   color: white;
   font-weight: 400;
-  
+}
+
+a {
+  color: darksalmon;
 }
