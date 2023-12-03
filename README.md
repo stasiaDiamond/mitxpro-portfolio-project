@@ -8,6 +8,12 @@ A GitHub Pages portfolio assignment from MITxPro Emeritus 8 month bootcamp that 
 
 - Improve visuals, perhaps add some JS.
 
+## Links to Each Repo
+
+[PacMen](https://github.com/stasiaDiamond/module-4-pacman)
+[Bus Tracker](https://github.com/stasiaDiamond/real-time-bus-tracker)
+[Eyes Animation](https://github.com/stasiaDiamond/mod-8-eye-movement-assignment)
+
 ## Truth Be Told
 
 Each assignment listed under projects was almost all starter code that I did not code, but they want us to showcase them in this portfolio.
