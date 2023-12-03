@@ -1,4 +1,4 @@
-# MITxPro Portfolio of Starter Code Projects
+# MITxPro Portfolio Assignment
 
 ## Description
 
