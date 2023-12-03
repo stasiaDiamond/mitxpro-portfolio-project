@@ -11,7 +11,9 @@ A GitHub Pages portfolio assignment from MITxPro Emeritus 8 month bootcamp that 
 ## Links to Each Repo
 
 [PacMen](https://github.com/stasiaDiamond/module-4-pacman)
+
 [Bus Tracker](https://github.com/stasiaDiamond/real-time-bus-tracker)
+
 [Eyes Animation](https://github.com/stasiaDiamond/mod-8-eye-movement-assignment)
 
 ## My Experience
