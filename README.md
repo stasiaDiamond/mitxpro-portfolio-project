@@ -14,7 +14,7 @@ A GitHub Pages portfolio assignment from MITxPro Emeritus 8 month bootcamp that 
 [Bus Tracker](https://github.com/stasiaDiamond/real-time-bus-tracker)
 [Eyes Animation](https://github.com/stasiaDiamond/mod-8-eye-movement-assignment)
 
-## Truth Be Told
+## My Experience
 
 Each assignment listed under projects was almost all starter code that I did not code, but they want us to showcase them in this portfolio.
 
