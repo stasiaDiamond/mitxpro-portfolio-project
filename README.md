@@ -2,7 +2,7 @@
 
 ## Description
 
-A GitHub Pages portfolio assignment from MITxPro Emeritus 8 month bootcamp that showcases 3 starter code homework assignments given via Codio.
+A simply designed Bootstrap and HTML portfolio. Bootstrap makes it seriously easy to build something that looks nice so fast. I sound like an ad! lol, it really does though
 
 ## Future Dev
 
@@ -18,13 +18,7 @@ A GitHub Pages portfolio assignment from MITxPro Emeritus 8 month bootcamp that 
 
 ## My Experience
 
-Each assignment listed under projects was almost all starter code that I did not code, but they want us to showcase them in this portfolio.
-
-PacMan Assignment: 95% starter code provided by the curriculum, but I created my own PacPal in Canva.
-
-Eye Movement Assignment: 99% starter code provided by the curriculum, we only needed to copypasta the second eye within the html file and js file.
-
-Bus Tracker Assignment: 99% starter code provided by the curriculum, we just had to copy what was shown in a video. Although they did tell us to change some styles around so I zoomed out, changed the button, and changed the timer intervals.
+Creating a webpage from scratch and Bootstrap has been fun!
 
 ## Resources for Portfolio
 
